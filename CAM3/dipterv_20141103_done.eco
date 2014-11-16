@@ -1,0 +1,18 @@
+*PADS-ECO-V9.4-METRIC*
+
+*REMARK* -- dipterv_20141103_done.pcb -- Thu Nov 06 16:01:12 2014
+
+*END*
+*PADS-ECO-V9.4-METRIC*
+
+*REMARK* -- dipterv_20141103_done.pcb -- Thu Nov 06 16:10:22 2014
+
+
+*PART*
+T5 TEST_POINT
+T6 TEST_POINT
+
+*NET*
+*SIGNAL* $$$1 0.25
+CON6.C2 T5.IN
+*END*
